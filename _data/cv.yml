@@ -13,83 +13,81 @@
   contents:
     - title: PhD
       institution: University of Tennessee, Knoxville, USA
-      year: 2023 - present
+      year: Will join this fall
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor - Prof. Sergei Kalinin
+        - Machine learning applications in microscopy for materials discovery.
     - title: Masters in Material Science
       institution: Indian Institute of Science, Bangalore, India
-      year: 2019 - 2020
+      year: Aug 2019 - July 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis supervisor - Prof Praveen C Ramamurty.
+        - GPA: 9.2/10 (7.35/8.0) Note: GPA after BS-MS(together) 8.05/10 (6.42/8)
     - title: Bachelors in Material Science
       institution: Indian Institute of Science, Bangalore, India
-      year: 2015 - 2019
+      year: Aug 2015 - July 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis supervisor - Prof Manish Jain and Prof Rajeev Ranjan. 
+        - GPA: 7.8/10 (6.2/8.0)
+
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Associate
       institution: Indian Institute of Science, Bangalore, India
-      year: 2022 - present
+      year: Aug 2022 - current
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor - Prof. Prathosh AP and Prof Vishweshwa Guttal
+        - Deep Representation learning lab; Dept of Electrical Communication Engineering
     - title: Research Engineer
       institution: Mindtree Limited, Bangalore, India
-      year: 2020 - 2022
+      year: Aug 2020 - July 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Machine learning
     - title: Research Intern
       institution: Vijna Labs, Bangalore, India
-      year: 2019 - 2020
+      year: July 2019 - Dec 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Deep learning for computer vision
     - title: Research Intern
       institution: Japan Advanced Institute of Technology, Ishikawa, Japan
-      year: 2017
+      year: June 2017 - Aug 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Drug discovery
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/utkarshp1161">GitHub</a>
-      year: 2015 - present
-      description: A collection of projects related to machine learning and material science.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/utkarshp1161">GitHub</a>
+#       year: 2015 - present
+#       description: A collection of projects related to machine learning and material science.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2015
-      items:
-        - Above 99.5 percentile in IIT entrance exam
-    - year: N/A
-      items:
-        - JASSO scholarship for summer research project at Japan Advanced Institute of Science and Technology (JAIST), Japan
-        - Research scholarship for undergraduate research at Indian Institute of Science
-        - Promotion for achieving excellent performance rating at Mindtree Limited
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2015
+#       items:
+#         - Above 99.5 percentile in IIT entrance exam
+#     - year: N/A
+#       items:
+#         - JASSO scholarship for summer research project at Japan Advanced Institute of Science and Technology (JAIST), Japan
+#         - Research scholarship for undergraduate research at Indian Institute of Science
+#         - Promotion for achieving excellent performance rating at Mindtree Limited
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Machine learning applications in material science
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Natural language processing
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Machine learning applications in material science
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Natural language processing
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Exploring new technologies and programming languages, reading, and traveling.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Exploring new technologies and programming languages, reading, and traveling.
