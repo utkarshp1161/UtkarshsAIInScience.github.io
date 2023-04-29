@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 A research professional with a passion for machine learning and its applications in science. I hold a Masters in Material Science from the Indian Institute of Science, where I used First Principles to study the electronic properties of Lanthana. I have since gained valuable industry experience as a Research Engineer at Mindtree Limited, where I developed skills in computer vision, natural language processing, and time series forecasting.
