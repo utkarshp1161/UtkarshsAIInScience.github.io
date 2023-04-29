@@ -18,6 +18,10 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I'm Utkarsh Pratiush, a research professional with a passion for machine learning and its applications in science. I hold a Masters in Material Science from the Indian Institute of Science, where I used First Principles to study the electronic properties of Lanthana. I have since gained valuable industry experience as a Research Engineer at Mindtree Limited, where I developed skills in computer vision, natural language processing, and time series forecasting.
+
+Currently, as a Research Associate at the Indian Institute of Science, I'm applying machine learning to ecological and natural language processing research. I have also been a research intern at the Japan Advanced Institute of Technology, where I worked on drug discovery.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
