@@ -8,17 +8,17 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm Utkarsh Pratiush, a research professional with a passion for machine learning and its applications in science. I hold a Masters in Material Science from the Indian Institute of Science, where I used First Principles to study the electronic properties of Lanthana. I have since gained valuable industry experience as a Research Engineer at Mindtree Limited, where I developed skills in computer vision, natural language processing, and time series forecasting.
+A research professional with a passion for machine learning and its applications in science. I hold a Masters in Material Science from the Indian Institute of Science, where I used First Principles to study the electronic properties of Lanthana. I have since gained valuable industry experience as a Research Engineer at Mindtree Limited, where I developed skills in computer vision, natural language processing, and time series forecasting.
 
 Currently, as a Research Associate at the Indian Institute of Science, I'm applying machine learning to ecological and natural language processing research. I have also been a research intern at the Japan Advanced Institute of Technology, where I worked on drug discovery.
 
