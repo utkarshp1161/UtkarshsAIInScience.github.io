@@ -1,95 +1,95 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Utkarsh Pratiush
-    # - name: Date of Birth
-    #   value: 
-    - name: Languages
-      value: English, Hindi
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Utkarsh Pratiush
+#     # - name: Date of Birth
+#     #   value: 
+#     - name: Languages
+#       value: English, Hindi
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Tennessee, Knoxville, USA
-      year: 2023 - present
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Masters in Material Science
-      institution: Indian Institute of Science, Bangalore, India
-      year: 2019 - 2020
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Bachelors in Material Science
-      institution: Indian Institute of Science, Bangalore, India
-      year: 2015 - 2019
-      description:
-        - Description 1.
-        - Description 2.
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: University of Tennessee, Knoxville, USA
+#       year: 2023 - present
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#     - title: Masters in Material Science
+#       institution: Indian Institute of Science, Bangalore, India
+#       year: 2019 - 2020
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#     - title: Bachelors in Material Science
+#       institution: Indian Institute of Science, Bangalore, India
+#       year: 2015 - 2019
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Associate
-      institution: Indian Institute of Science, Bangalore, India
-      year: 2022 - present
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Research Engineer
-      institution: Mindtree Limited, Bangalore, India
-      year: 2020 - 2022
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Research Intern
-      institution: Vijna Labs, Bangalore, India
-      year: 2019 - 2020
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Research Intern
-      institution: Japan Advanced Institute of Technology, Ishikawa, Japan
-      year: 2017
-      description:
-        - Description 1.
-        - Description 2.
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Research Associate
+#       institution: Indian Institute of Science, Bangalore, India
+#       year: Aug2022 - presen
+#       description:
+#         - Description 1.
+#         - Description 2.
+#     - title: Research Engineer
+#       institution: Mindtree Limited, Bangalore, India
+#       year: 2020 - 2022
+#       description:
+#         - Description 1.
+#         - Description 2.
+#     - title: Research Intern
+#       institution: Vijna Labs, Bangalore, India
+#       year: 2019 - 2020
+#       description:
+#         - Description 1.
+#         - Description 2.
+#     - title: Research Intern
+#       institution: Japan Advanced Institute of Technology, Ishikawa, Japan
+#       year: 2017
+#       description:
+#         - Description 1.
+#         - Description 2.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/utkarshp1161">GitHub</a>
-      year: 2015 - present
-      description: A collection of projects related to machine learning and material science.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/utkarshp1161">GitHub</a>
+#       year: 2015 - present
+#       description: A collection of projects related to machine learning and material science.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2015
-      items:
-        - Above 99.5 percentile in IIT entrance exam
-    - year: N/A
-      items:
-        - JASSO scholarship for summer research project at Japan Advanced Institute of Science and Technology (JAIST), Japan
-        - Research scholarship for undergraduate research at Indian Institute of Science
-        - Promotion for achieving excellent performance rating at Mindtree Limited
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2015
+#       items:
+#         - Above 99.5 percentile in IIT entrance exam
+#     - year: N/A
+#       items:
+#         - JASSO scholarship for summer research project at Japan Advanced Institute of Science and Technology (JAIST), Japan
+#         - Research scholarship for undergraduate research at Indian Institute of Science
+#         - Promotion for achieving excellent performance rating at Mindtree Limited
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Machine learning applications in material science
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Natural language processing
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Machine learning applications in material science
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Natural language processing
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Exploring new technologies and programming languages, reading, and traveling.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Exploring new technologies and programming languages, reading, and traveling.
