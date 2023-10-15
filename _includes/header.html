@@ -16,34 +16,49 @@
 
             <div class="collapse navbar-collapse text-right" id="navbarNav">
                 <ul class="navbar-nav ml-auto flex-nowrap">
-
+            
                     <!-- About -->
                     <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-                        <a class="nav-link" href="{{ '/' | relative_url }}">About
+                        <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                             {%- if page.permalink == '/' -%}
                             <span class="sr-only">(current)</span>
                             {%- endif -%}
                         </a>
                     </li>
-
-                    <!-- CV -->
-                    <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
-                        <a class="nav-link" href="{{ '/cv/' | relative_url }}">CV
-                            {%- if page.title == 'CV' -%}
+            
+                    <!-- Other pages -->
+                    {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
+                    {%- for p in sorted_pages -%}
+                    {%- if p.nav and p.autogen == nil and (p.title == "CV" or p.title == "Publication" or p.title == "About") -%}
+                    {%- if p.dropdown %}
+                    <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
+                            {%- if page.title == p.title -%}
+                            <span class="sr-only">(current)</span>
+                            {%- endif -%}
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                            {%- for child in p.children -%}
+                            {%- if child.title == 'divider' %}
+                            <div class="dropdown-divider"></div>
+                            {%- else %}
+                            <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
+                            {%- endif -%}
+                            {% endfor %}
+                        </div>
+                    </li>
+                    {%- else %}
+                    <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                        <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
+                            {%- if page.title == p.title -%}
                             <span class="sr-only">(current)</span>
                             {%- endif -%}
                         </a>
                     </li>
-
-                    <!-- Publication -->
-                    <li class="nav-item {% if page.title == 'Publication' %}active{% endif %}">
-                        <a class="nav-link" href="{{ '/publication/' | relative_url }}">Publication
-                            {%- if page.title == 'Publication' -%}
-                            <span class="sr-only">(current)</span>
-                            {%- endif -%}
-                        </a>
-                    </li>
-
+                    {%- endif -%}
+                    {%- endif -%}
+                    {% endfor -%}
+                    
                 </ul>
             </div>
         </div>
