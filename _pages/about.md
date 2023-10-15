@@ -18,12 +18,9 @@ latest_posts: false  # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-A research professional with a passion for machine learning and its applications in science. Currently, as a Graduate Research Assistant at the UT Knoxville, I'm applying machine learning to accelarate materials discovery with the focus to build automated workflows in microscopes advised by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/)
+At UT Knoxville, in my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes. This endeavor is guided byDr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).
 
-
-I hold a Masters in Material Science from the Indian Institute of Science, where I used First Principles to study the electronic properties of Lanthana. I have since gained valuable industry experience as a Research Engineer at Mindtree Limited, where I developed skills in computer vision, natural language processing, and time series forecasting. 
-
-Will be happy to get in touch and discuss Machine learning for materials.
+I earned my Master's degree in Material Science from the Indian Institute of Science. During this period, I delved into First Principles to investigate the electronic properties of Lanthana. Post my academic journey, I enriched my professional expertise as a Research Engineer at Mindtree Limited. Here, I honed my skills in computer vision, natural language processing, and forecasting time series data.
 
 
 
