@@ -18,10 +18,13 @@ latest_posts: false  # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-At UT Knoxville, in my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes. This endeavor is guided byDr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).
+At UT Knoxville, in my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes(STEM and SPM). This endeavor is guided by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).
 
 I earned my Master's degree in Material Science from the Indian Institute of Science. During this period, I delved into First Principles to investigate the electronic properties of Lanthana. Post my academic journey, I enriched my professional expertise as a Research Engineer at Mindtree Limited. Here, I honed my skills in computer vision, natural language processing, and forecasting time series data.
 
+Please reach out to me for collaborations, research opportunities, or just to chat about the latest in AI and materials science. I'm always eager to learn and share knowledge.
+
+Keywords: Bayesian Optimization, Gaussian processes, Active learning, ML for science.
 
 
 links:
