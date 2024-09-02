@@ -18,18 +18,17 @@ latest_posts: false  # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-At UT Knoxville, in my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes(STEM and SPM). This endeavor is guided by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).
+At UT Knoxville, I am part of the [AESPM_group](https://ae-spm.utk.edu/). In my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes(STEM and SPM). This endeavor is guided by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).  
 
-I earned my Master's degree in Material Science from the Indian Institute of Science. During this period, I delved into First Principles to investigate the electronic properties of Lanthana. Post my academic journey, I enriched my professional expertise as a Research Engineer at Mindtree Limited. Here, I honed my skills in computer vision, natural language processing, and forecasting time series data.
+I earned my Bachelors and Master's degree in Material Science from the [Indian Institute of Science](https://iisc.ac.in/). As my bachelor's thesis I  used First Principles to investigate the electronic properties of Lanthana. As part of my masters thesis I built software interface for characterizing ions toxicity. Post my academic journey, I enriched my professional expertise as a Research Engineer at Mindtree Limited. Here, I honed my skills in computer vision, natural language processing, and forecasting time series data. I try to keep myself up to date with current ML research both at hands on and theoretical level.
 
-Please reach out to me for collaborations, research opportunities, or just to chat about the latest in AI and materials science. I'm always eager to learn and share knowledge.
+Please reach out to me for collaborations, research opportunities, or just to chat about the latest in AI and materials science. I'm always eager to learn and share knowledge. 
 
 Keywords: Bayesian Optimization, Gaussian processes, Active learning, ML for science.
 
 
 links:
-
-[Google scholar](https://scholar.google.com/citations?user=BqhnGGAAAAAJ&hl=en)
+[Google_scholar](https://scholar.google.com/citations?user=BqhnGGAAAAAJ&hl=en)
 [Github](https://github.com/utkarshp1161)
 [Linkedin](https://www.linkedin.com/in/utkarsh-pratiush-376ab6171/)
 [Email](mailto:upratius@vols.edu.utk)

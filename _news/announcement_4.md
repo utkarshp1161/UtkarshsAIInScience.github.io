@@ -1,9 +1,8 @@
-<!-- ---
+---
 layout: post
-date: 2024-05-24 07:59:00-0400
+date: 2024-05-11 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our team project [LangSim](https://github.com/jan-janssen/LangSim/tree/main) was awarded 1st prize(by Radical AI) in LLM for chemistry [hackathon](https://materials-data-facility.github.io/llm-hackathon/).
- -->
+Our projects [LangSim](https://github.com/jan-janssen/LangSim) won the 1st prize in [LLM hackathon](https://medium.com/@blaiszik/llms-to-accelerate-discovery-in-materials-science-and-chemistry-refections-on-a-hackathon-b8364ca32242)
