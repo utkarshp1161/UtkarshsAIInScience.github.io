@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Human in the loop Automated experiments 
-description: Simulation of hAE
+description: 
 img: assets/img/hAE_2.png
 importance: 1
 category: work
