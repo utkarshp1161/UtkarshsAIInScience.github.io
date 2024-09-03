@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our projects [LangSim](https://github.com/jan-janssen/LangSim) won the 1st prize in [LLM hackathon](https://medium.com/@blaiszik/llms-to-accelerate-discovery-in-materials-science-and-chemistry-refections-on-a-hackathon-b8364ca32242)
+Our project [LangSim](https://github.com/jan-janssen/LangSim) won the 1st prize in [LLM hackathon](https://medium.com/@blaiszik/llms-to-accelerate-discovery-in-materials-science-and-chemistry-refections-on-a-hackathon-b8364ca32242)
