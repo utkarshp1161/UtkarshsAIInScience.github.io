@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Try the [human-in-the-loop](https://www.linkedin.com/feed/update/urn:li:activity:7236115281360613376/) simulator. [link](https://tiny.utk.edu/hAE). 
+We have successfully deployed [human-in-the-loop](https://www.linkedin.com/feed/update/urn:li:activity:7236115281360613376/) Automated experiment. Try the simulator at this [link](https://tiny.utk.edu/hAE). 
 
