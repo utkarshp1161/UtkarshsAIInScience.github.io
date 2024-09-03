@@ -14,6 +14,8 @@ category: work
     </div>
 </div>
 <div class="caption">
-    Human in the loop automated experiments assisted bayesian optimization
+    Human in the loop automated experiments.
 </div>
-[try the simulator](https://tiny.utk.edu/hAE)
+
+## Try the [simulator on this link](https://tiny.utk.edu/hAE)
+Read the related paper [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BqhnGGAAAAAJ&citation_for_view=BqhnGGAAAAAJ:zYLM7Y9cAGgC) 
