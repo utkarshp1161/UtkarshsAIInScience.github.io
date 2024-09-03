@@ -28,9 +28,9 @@ Keywords: Bayesian Optimization, Gaussian processes, Active learning, ML for sci
 
 
 links:
-[Google_scholar](https://scholar.google.com/citations?user=BqhnGGAAAAAJ&hl=en)
-[Github](https://github.com/utkarshp1161)
-[Linkedin](https://www.linkedin.com/in/utkarsh-pratiush-376ab6171/)
+[Google_scholar](https://scholar.google.com/citations?user=BqhnGGAAAAAJ&hl=en) ||
+[Github](https://github.com/utkarshp1161) ||
+[Linkedin](https://www.linkedin.com/in/utkarsh-pratiush-376ab6171/) ||
 [Email](mailto:upratius@vols.edu.utk)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
