@@ -27,17 +27,13 @@ Please reach out to me for collaborations, research opportunities, or just to ch
 Keywords: Bayesian Optimization, Gaussian processes, Active learning, ML for science.
 
 
-#### links:
+links:
 [Google_scholar](https://scholar.google.com/citations?user=BqhnGGAAAAAJ&hl=en) ||
 [Github](https://github.com/utkarshp1161) ||
 [Linkedin](https://www.linkedin.com/in/utkarsh-pratiush-376ab6171/) ||
 [Email](mailto:upratius@vols.edu.utk)
 
-#### I will update my fun projects below:
 
-Human in the loop automated experiments assisted by bayesian optimization
-![Human in the loop automated experiments](../assets/img/hAE_2.png)
-[try the simulator](https://tiny.utk.edu/hAE)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
