@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work on "Realizing Smart STEM via Machine Learning on Remote High Performance Computer" got selected as a platform presentaiton at [M&M 2024](https://mmconference.microscopy.org/)
+Our work on "Realizing Smart STEM via Machine Learning on Remote High Performance Computer" got selected as a platform presentaiton at [M&M 2024](https://mmconference.microscopy.org/)
