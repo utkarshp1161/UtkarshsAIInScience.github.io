@@ -16,7 +16,4 @@ category: work
 <div class="caption">
     Human in the loop automated experiments.
 </div>
-
-Try the [simulator on this link](https://tiny.utk.edu/hAE)
-
-Read the related paper [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BqhnGGAAAAAJ&citation_for_view=BqhnGGAAAAAJ:zYLM7Y9cAGgC) 
+[Try the simulator on this link](https://tiny.utk.edu/hAE)
