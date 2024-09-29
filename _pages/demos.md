@@ -6,7 +6,7 @@ How much more can we learn by combining electron microscopy and computer vision 
 <ul class="grid">
 
 <li class="video" markdown="1">
-<iframe src="https://drive.google.com/file/d/10r46FSJ8xkyWfAw7eQLbicskhitczgb2/preview" width="960" height="540" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10r46FSJ8xkyWfAw7eQLbicskhitczgb2/preview" width="700" height="400" allow="autoplay"></iframe>
 
 
 </li>
