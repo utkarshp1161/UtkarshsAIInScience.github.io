@@ -13,6 +13,6 @@ How much more can we learn by combining electron microscopy and computer vision 
 
 </ul>
 
-In collaboration with Austin Houston and Gerd Duscher demo video shows the deployment of the foundational SAM model to analyze Thermo Fisher Scientific Spectra 300 data stream, and perform the EDX and EELS measurements on the a priori selected locations on the Au/TiO2 nanoparticles. 
+In collaboration with Austin Houston and Gerd Duscher, demo video shows the deployment of the foundational SAM model to analyze Thermo Fisher Scientific Spectra 300 data stream, and perform the EDX and EELS measurements on the a priori selected locations on the Au/TiO2 nanoparticles. 
 
 [Linkedin post link (by my advisor)](https://www.linkedin.com/posts/sergei-kalinin-5bb44b18_real-time-chemical-and-structural-activity-7245721388605390848-mC7H?utm_source=share&utm_medium=member_desktop)
