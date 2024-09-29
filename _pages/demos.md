@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /demos/
-title: Demos
+title: demos
 description: 
 nav: true
 nav_order: 3
