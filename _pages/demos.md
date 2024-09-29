@@ -1,4 +1,11 @@
-
+---
+layout: page
+permalink: /demos/
+title: Demos
+description: 
+nav: true
+nav_order: 3
+---
 ## 1. Demonstration: EDX-EELS-Diffraction on particles
 How much more can we learn by combining electron microscopy and computer vision algorithms - if we let ML agent to make decisions where to take EDX and EELS spectra? 
 
