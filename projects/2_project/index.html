@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Announcement_5 | Utkarsh  Pratiush</title>
+    <title>Estimating structure property relationship in microsocpy using bayesian optimization | Utkarsh  Pratiush</title>
     <meta name="author" content="Utkarsh  Pratiush">
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-">
+    <meta name="description" content="Bayesian optimization">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -34,7 +33,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/UtkarshsAIInScience.github.io/assets/css/main.css">
-    <link rel="canonical" href="https://utkarshaiinscience.github.io/UtkarshsAIInScience.github.io/news/announcement_5/">
+    <link rel="canonical" href="https://utkarshaiinscience.github.io/UtkarshsAIInScience.github.io/projects/2_project/">
     
     <!-- Dark Mode -->
     
@@ -104,24 +103,65 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <!-- _layouts/post.html -->
+      <!-- page.html -->
+        <div class="post">
 
-<div class="post">
+          <header class="post-header">
+            <h1 class="post-title">Estimating structure property relationship in microsocpy using bayesian optimization</h1>
+            <p class="post-description">Bayesian optimization</p>
+          </header>
 
-  <header class="post-header">
-    <h1 class="post-title">Announcement_5</h1>
-    <p class="post-meta">June 5, 2024</p>
-    <p class="post-tags">
-      <a href="/UtkarshsAIInScience.github.io/blog/2024"> <i class="fas fa-calendar fa-sm"></i> 2024 </a>
+          <article>
+            <p>In microscopy we often want to measure strucure property relationship. But it can also lead to significant beam damage if sample is exposed a lot to the beam.
+—-&gt; have a beam damage image  &lt;————–
+Q. Can we get some estimate of the property over unknown region by measuring the property over few regions?</p>
 
-    </p>
-  </header>
+<p>for this analysis lets choose this dataset with ground truth measurements at all the points:
+–&gt; HAADF, spectrum &lt;——-</p>
 
-  <article class="post-content">
-    <p>I gave a talk about “smart data acquisition using AI and high compute” in  <a href="https://github.com/gduscher/MLSTEM2024" rel="external nofollow noopener" target="_blank">ML for STEM workshop</a> organised at UTK.</p>
+<p>The relationship we want to learn is b/w the strucutre patch and the target property which is some scalar value corresponding to the spectrum which we refer to as a scalarizer
+–&gt; Scalarizer images &lt;—–</p>
 
-  </article>
+<p>the measure of success for us is mean square error b/e predicted value and the ground truth value we already have.</p>
+
+<p>Lets formulate the problem more regorously:
+Symbols: 
+a) I refers to th HAADF image of size m*n
+b) 
+b) coords referes to total coordinates around which patches</p>
+
+<p>Steps:
+    a) Make dataset
+    b)</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/UtkarshsAIInScience.github.io/assets/img/hAE_2-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/UtkarshsAIInScience.github.io/assets/img/hAE_2-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/UtkarshsAIInScience.github.io/assets/img/hAE_2-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/UtkarshsAIInScience.github.io/assets/img/hAE_2.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
 </div>
+<div class="caption">
+    Human in the loop automated experiments.
+</div>
+<p><a href="https://tiny.utk.edu/hAE" rel="external nofollow noopener" target="_blank">Try the simulator on this link</a></p>
+
+          </article>
+
+        </div>
 
     </div>
 
