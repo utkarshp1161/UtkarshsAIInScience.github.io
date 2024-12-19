@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sucessefully co-organized [AI and ML for Microscopy, Hackathon-2024](https://kaliningroup.github.io/mic-hackathon/), Check out the amazing submissions at [link](https://kaliningroup.github.io/mic-hackathon/projects/)
+Successfully co-organized [AI and ML for Microscopy, Hackathon-2024](https://kaliningroup.github.io/mic-hackathon/), Check out the amazing submissions at [link](https://kaliningroup.github.io/mic-hackathon/projects/)
