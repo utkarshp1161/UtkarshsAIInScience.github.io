@@ -26,7 +26,20 @@ social: true  # includes social icons at the bottom of the page
     <img src="{{ site.baseurl }}/assets/img/up_with_mic.png" alt="Microscope Image" style="width:260px;">
 </div>
 
+---
+<h2>Some of my Favorite Quotes</h2>
 
+<p><strong>"मानव जब जोर लगाता है, पत्थर पानी बन जाता है।"</strong></p>
+<p><em>"When a human exerts full effort, even a rock turns into water."</em></p>
+<p>Source: <a href="http://kavitakosh.org/kk/%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22" target="_blank">Rashmirathi - Ramdhari Singh Dinkar</a></p>
+
+---
+
+
+<p><strong>"Happiness is when what you think, what you say, and what you do are in harmony."</strong></p>
+<p>Source: Quote from Mahatma Gandhi</p>
+
+---
 At UT Knoxville, I am part of the [AESPM_group](https://ae-spm.utk.edu/). In my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes(STEM and SPM). This endeavor is guided by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).  
 
 I earned my Bachelor's and Master's degree in Material Science from the [Indian Institute of Science](https://iisc.ac.in/). As my bachelor's thesis I  used First Principles to investigate the electronic properties of Lanthana. As part of my masters thesis I built software interface for characterizing ions toxicity. Here I realised I like to build software which accelarates scientific discovery. Post my academic journey, I enriched my professional expertise as a Research Engineer at [Mindtree Limited](https://www.ltimindtree.com/). Here, I honed my skills in computer vision, natural language processing, and forecasting time series data. I try to keep myself up to date with current ML research both at hands on and theoretically.
@@ -36,13 +49,16 @@ Please reach out to me for collaborations, research opportunities, or just to ch
 Keywords: Bayesian Optimization, Gaussian processes, Active learning, ML for science.
 
 
+---
+
+
+
+
 links:
 [Google_scholar](https://scholar.google.com/citations?user=BqhnGGAAAAAJ&hl=en) ||
 [Github](https://github.com/utkarshp1161) ||
 [Linkedin](https://www.linkedin.com/in/utkarsh-pratiush-376ab6171/) ||
 [Email](mailto:upratius@vols.edu.utk)
-
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
