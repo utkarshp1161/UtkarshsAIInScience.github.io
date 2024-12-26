@@ -18,16 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <!-- Image 1 -->
-    <img src="{{ site.baseurl }}/assets/img/hAE_dec_2024.png" alt="Human in the loop active learning" style="width:380px; margin-right: 20px;">
-    <!-- Image 2 -->
-    <img src="{{ site.baseurl }}/assets/img/up_with_mic.png" alt="Microscope Image" style="width:260px;">
-</div>
-
----
-<h2>Some of my Favorite Quotes</h2>
+<h2>Few Favorite Quotes</h2>
 
 <p><strong>"मानव जब जोर लगाता है, पत्थर पानी बन जाता है।"</strong></p>
 <p><em>"When a human exerts full effort, even a rock turns into water."</em></p>
@@ -40,6 +31,16 @@ social: true  # includes social icons at the bottom of the page
 <p>Source: Quote from Mahatma Gandhi</p>
 
 ---
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <!-- Image 1 -->
+    <img src="{{ site.baseurl }}/assets/img/hAE_dec_2024.png" alt="Human in the loop active learning" style="width:380px; margin-right: 20px;">
+    <!-- Image 2 -->
+    <img src="{{ site.baseurl }}/assets/img/up_with_mic.png" alt="Microscope Image" style="width:260px;">
+</div>
+
+---
+
 At UT Knoxville, I am part of the [AESPM_group](https://ae-spm.utk.edu/). In my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes(STEM and SPM). This endeavor is guided by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).  
 
 I earned my Bachelor's and Master's degree in Material Science from the [Indian Institute of Science](https://iisc.ac.in/). As my bachelor's thesis I  used First Principles to investigate the electronic properties of Lanthana. As part of my masters thesis I built software interface for characterizing ions toxicity. Here I realised I like to build software which accelarates scientific discovery. Post my academic journey, I enriched my professional expertise as a Research Engineer at [Mindtree Limited](https://www.ltimindtree.com/). Here, I honed my skills in computer vision, natural language processing, and forecasting time series data. I try to keep myself up to date with current ML research both at hands on and theoretically.
