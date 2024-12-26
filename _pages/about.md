@@ -18,6 +18,12 @@ latest_posts: false  # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+## 
+<div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/">
+        <img src="../assets/img/hAE_dec_2024.png" alt="AI Tennessee Initiative" style="width:230px; margin-right: 20px;">
+</div>
+
 At UT Knoxville, I am part of the [AESPM_group](https://ae-spm.utk.edu/). In my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes(STEM and SPM). This endeavor is guided by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).  
 
 I earned my Bachelor's and Master's degree in Material Science from the [Indian Institute of Science](https://iisc.ac.in/). As my bachelor's thesis I  used First Principles to investigate the electronic properties of Lanthana. As part of my masters thesis I built software interface for characterizing ions toxicity. Here I realised I like to build software which accelarates scientific discovery. Post my academic journey, I enriched my professional expertise as a Research Engineer at [Mindtree Limited](https://www.ltimindtree.com/). Here, I honed my skills in computer vision, natural language processing, and forecasting time series data. I try to keep myself up to date with current ML research both at hands on and theoretically.
