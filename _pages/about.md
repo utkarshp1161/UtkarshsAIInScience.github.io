@@ -18,9 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-## 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <a href="https://research.utk.edu/oried/research-innovation-initiatives/ai-tennessee-initiative/">
         <img src="/assets/img/hAE_dec_2024.png" alt="AI Tennessee Initiative" style="width:230px; margin-right: 20px;">
 </div>
 
