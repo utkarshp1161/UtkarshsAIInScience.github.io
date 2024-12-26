@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  #image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
     <!-- Image 1 -->
     <img src="{{ site.baseurl }}/assets/img/hAE_dec_2024.png" alt="Human in the loop active learning" style="width:330px; margin-right: 20px;">
     <!-- Image 2 -->
-    <img src="{{ site.baseurl }}/assets/img/up_with_mic.png" alt="Microscope Image" style="width:100px;">
+    <img src="{{ site.baseurl }}/assets/img/up_with_mic.png" alt="Microscope Image" style="width:230px;">
 </div>
 
 
