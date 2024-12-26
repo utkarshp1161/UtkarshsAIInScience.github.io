@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://utkarshaiinscience.github.io/UtkarshsAIInScience.github.io/sitemap.xml
+Sitemap: https://utkarshp1161.github.io/UtkarshsAIInScience.github.io/sitemap.xml
