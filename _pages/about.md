@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <!-- Image 1 -->
-    <img src="{{ site.baseurl }}/assets/img/hAE_dec_2024.png" alt="Human in the loop active learning" style="width:330px; margin-right: 20px;">
+    <img src="{{ site.baseurl }}/assets/img/hAE_dec_2024.png" alt="Human in the loop active learning" style="width:380px; margin-right: 20px;">
     <!-- Image 2 -->
-    <img src="{{ site.baseurl }}/assets/img/up_with_mic.png" alt="Microscope Image" style="width:230px;">
+    <img src="{{ site.baseurl }}/assets/img/up_with_mic.png" alt="Microscope Image" style="width:260px;">
 </div>
 
 
