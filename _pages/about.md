@@ -19,7 +19,8 @@ latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="/assets/img/hAE_dec_2024.png" alt="AI Tennessee Initiative" style="width:230px; margin-right: 20px;">
+        <img src="{{ site.baseurl }}/assets/img/hAE_dec_2024.png" alt="Human in the loop active learning" style="width:230px; margin-right: 20px;">
+
 </div>
 
 At UT Knoxville, I am part of the [AESPM_group](https://ae-spm.utk.edu/). In my role as a Graduate Research Assistant, I'm harnessing the power of machine learning to fast-track materials discovery. My primary aim is to create automated workflows for microscopes(STEM and SPM). This endeavor is guided by Dr. [Sergei](https://scholar.google.co.in/citations?user=-cuxoSQAAAAJ&hl=en) in collaboration with [ORNL](https://www.ornl.gov/).  
