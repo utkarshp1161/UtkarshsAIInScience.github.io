@@ -15,7 +15,7 @@ How much more can we learn by combining electron microscopy and computer vision 
 
 - Sample TiO2 matrix with Au particles embedded in it
 - In collaboration with:
-    -  UTK team: Austin Houston, Gerd Duscher, Sergei Kalinin
+    -  UTK team: Utkarsh Pratiush, Austin Houston, Gerd Duscher, Sergei Kalinin
     - ThermofisherScientific team : Paolo Longo and Remco Geurts
 - Instrument: Thermo Fisher Scientific Spectra 300 
 - Video edit credits - Utkarsh Pratiush
@@ -30,7 +30,7 @@ How much more can we learn by combining electron microscopy and computer vision 
 
 - Sample: TiO2 matrix with Au particles embedded in it
 - In collaboration with:
-    -  UTK team: Austin Houston, Gerd Duscher, Sergei Kalinin
+    -  UTK team: Utkarsh Pratiush, Austin Houston, Gerd Duscher and Sergei Kalinin
     - ThermofisherScientific team : Paolo Longo and Remco Geurts
 - Instrument: Thermo Fisher Scientific Spectra 300 
 - Video edit credits - Austin Houston
