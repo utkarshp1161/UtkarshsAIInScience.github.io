@@ -35,11 +35,12 @@ How much more can we learn by combining electron microscopy and computer vision 
 - Instrument: Thermo Fisher Scientific Spectra 300 
 - Video edit credits - Austin Houston
 
+- 
+- 
+- 
 
 
-
-
-#---------------------------------------------------------------
+# -------
 
 
 </li>
