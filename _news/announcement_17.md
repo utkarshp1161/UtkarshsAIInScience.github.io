@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Reviewer at [Temporal Graph Learning Workshop @ KDD 2025 ](https://sites.google.com/view/tgl-workshop-2025/) (reviewed 2papers).
+Reviewer at [Temporal Graph Learning Workshop @ KDD 2025 ](https://sites.google.com/view/tgl-workshop-2025/) (reviewed 2 papers).
